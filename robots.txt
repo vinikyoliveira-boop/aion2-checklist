@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinikyoliveira-boop.github.io/aion2-checklist/sitemap.xml
